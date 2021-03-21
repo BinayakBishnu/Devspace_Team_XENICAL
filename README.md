@@ -1,6 +1,6 @@
 # Track: Healthcare and Social Responsibility
 
-## Problem Statement: Suggest solutions that would help increase women safety in high risk areas
+## Problem Statement: Suggest solutions that would help increase women's safety in high risk areas
 
 A guide made for women to take precautions or defend themselves in high risk areas. We have provided links to self-defence videos and information on unsafe areas.
 
